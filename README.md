@@ -8,5 +8,5 @@ pip install -r requirements.txt
 
 ### **Running the Model**
 ```bash
-python q1_final.py
+python Q2_final.py
 ```
